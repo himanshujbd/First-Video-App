@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">First Video App</string>
+    <string name="agora_app_id">3b4ea0e3536343dea339174a409ae719</string>
+    <string name="agora_token_id">0a797ea3b007420c9f47bffc8aff7d0d</string>
+</resources>
